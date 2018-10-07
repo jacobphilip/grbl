@@ -45,6 +45,7 @@
 #define PEN_SERVO
 // these are full travel values. If you want to move less than full travel adjust these values
 // If your servo is going the wrong way, swap them.
+// TODO optimize travel values for pen plotter
 #define PEN_SERVO_DOWN     16
 #define PEN_SERVO_UP       31
 
